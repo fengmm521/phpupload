@@ -35,3 +35,5 @@ sudo apachectl restart
 6.如果不修改，可以使用作目录软连接
 
 ln -s 你的网站目录 /Library/WebServer/Documents/你的目录名
+
+参考：https://my.oschina.net/joanfen/blog/171109
